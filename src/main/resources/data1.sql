@@ -1,0 +1,3 @@
+INSERT INTO PRODUCT (name, desc, brand, price, category, release_date, avialable, quantity, imageName, imageType, imageData)
+VALUES ('lamp', 'best for study at night', 'google',	20.00, 'Electronics', '2025-07-18', true, 199 ,'Google-Cloud-lamp.png', 'image/png', 'c:\Users\Dhiraj\Downloads\Google-Cloud-lamp.png'), 
+('hoodie', 'best for wear in winter season', 'google',	20.00, 'Fashion', '2025-07-18', true, 199 ,'Google-Cloud-Hoodie.png', 'image/png', 'c:\Users\Dhiraj\Downloads\Google-Cloud-Hoodie.png');
